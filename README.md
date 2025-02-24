@@ -6,3 +6,6 @@ This is a neural network to manage your time efficently using the 4 priorities m
 
 
 To start you need to execute this command to get all the necessary libraries for executing this neural network:
+
+```bash
+./install.sh
