@@ -9,3 +9,6 @@ To start you need to execute this command to get all the necessary libraries for
 
 ```bash
 ./install.sh
+```
+
+For adding your tasks you need to firstly get a .csv file in this format:
